@@ -50,13 +50,6 @@ const sakendersaikot = {
 **Databases & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,linux" />
-
-<details>
-<summary><strong>🌱 Also working with — Machine Learning &amp; Data Science</strong></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py" />
-</details>
-
 </div>
 
 <br/>
