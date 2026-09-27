@@ -16,7 +16,6 @@ Software Engineer at **SM Technology (Betopia Group)**, focused on building scal
 
 Currently pursuing an **M.Sc in Computer Science** at American International University-Bangladesh (AIUB), alongside a B.Sc in Computer Science and Engineering from Varendra University.
 
-- 💼 Software Engineer, SM Technology (Betopia Group)
 - 🎓 M.Sc in Computer Science, AIUB
 - 🎓 B.Sc in CSE, Varendra University
 - 📫 sakendersaikot11@gmail.com
