@@ -1,84 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Md.%20Sakender%20Saikot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+with+React+%26+Next.js;TypeScript-first+%C2%B7+Pixel-accurate+UI" alt="Typing SVG"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikot313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakender-saikot-9970282a5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakendersaikot88@gmail.com)
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+### 👨‍💻 About
 
-### About
+Building scalable, production-ready web applications with **React, Next.js and TypeScript**. I translate UI/UX designs into pixel-accurate, responsive interfaces with **Tailwind CSS**, integrate REST APIs, and optimize frontend performance and usability.
 
-Software Engineer at **SM Technology (Betopia Group)**, focused on building scalable, production-ready web applications with **React, Next.js and TypeScript**. Experienced in translating UI/UX designs into pixel-accurate, responsive interfaces with **Tailwind CSS**, integrating REST APIs, and optimizing frontend performance.
+Completed **M.Sc in CS** at American International University-Bangladesh (AIUB), alongside a B.Sc in Computer Science and Engineering from Varendra University.
 
-Currently pursuing an **M.Sc in Computer Science** at American International University-Bangladesh (AIUB), alongside a B.Sc in Computer Science and Engineering from Varendra University.
-
-- 🎓 M.Sc in Computer Science, AIUB
-- 🎓 B.Sc in CSE, Varendra University
-- 📫 sakendersaikot11@gmail.com
-
-</td>
-<td width="40%" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZmMnEzM3Nzb3BrNnJzZnlqZ2VnYW83bDhuZHk1bnhuY2MwZGNqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-</td>
-</tr>
-</table>
+```txt
+const sakendersaikot = {
+  role: "Software Engineer",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  alsoInto: ["Flutter", "Machine Learninf"],
+  based: "Dhaka, Bangladesh",
+};
+```
 
 <br/>
 
-## Tech Stack
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,js,html,css" />
 
 **Backend & APIs**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,firebase" />
 
 **Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+**Databases & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,linux" />
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Databases**
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<details>
+<summary><strong>🌱 Also working with — Machine Learning &amp; Data Science</strong></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py" />
 </details>
+
+</div>
 
 <br/>
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -87,20 +70,13 @@ Currently pursuing an **M.Sc in Computer Science** at American International Uni
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikot313&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikot313&theme=tokyo-night&hide_border=true" width="95%"/>
+
 </div>
 
 <br/>
 
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikot313)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakender-saikot-9970282a5/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.sakender.saikot)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakendersaikot88@gmail.com)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer"/>
 
 <div align="center">
 <sub>
