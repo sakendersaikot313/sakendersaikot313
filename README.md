@@ -14,12 +14,12 @@
 
 Software Engineer at **SM Technology (Betopia Group)**, focused on building scalable, production-ready web applications with **React, Next.js and TypeScript**. Experienced in translating UI/UX designs into pixel-accurate, responsive interfaces with **Tailwind CSS**, integrating REST APIs, and optimizing frontend performance.
 
-Currently pursuing an **M.Sc in Data Science** at American International University-Bangladesh (AIUB), alongside a B.Sc in Computer Science and Engineering from Varendra University.
+Currently pursuing an **M.Sc in Computer Science** at American International University-Bangladesh (AIUB), alongside a B.Sc in Computer Science and Engineering from Varendra University.
 
 - 💼 Software Engineer, SM Technology (Betopia Group)
-- 🎓 M.Sc in Data Science, AIUB *(in progress)*
+- 🎓 M.Sc in Computer Science, AIUB
 - 🎓 B.Sc in CSE, Varendra University
-- 📫 sakendersaikot88@gmail.com
+- 📫 sakendersaikot11@gmail.com
 
 </td>
 <td width="40%" align="center">
@@ -75,17 +75,6 @@ Currently pursuing an **M.Sc in Data Science** at American International Univers
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<details>
-<summary><strong>Also working with — Machine Learning & Data Science</strong></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
 </details>
 
 <br/>
